@@ -47,10 +47,12 @@
         "tooltip": true,
         "tooltip-format": "{app}: {title}"
     },
-    "tray": {
-        // "icon-size": 21,
-        "spacing": 10
-    },
+"tray": {
+    "icon-size": 21,
+    "spacing": 10
+},
+
+
     "clock": {
         // "timezone": "America/New_York",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
